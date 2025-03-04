@@ -1,5 +1,3 @@
----
-
 # 🔒 Stealth Mode for Twitter — Hide Your Profile Avatar!  
 
 **Keep your privacy intact while browsing Twitter in public or during live streams!** This custom CSS lets you hide your own profile avatar, minimizing the risk of doxxing and helping you maintain better OPSEC (Operational Security).  
