@@ -41,6 +41,7 @@ Streaming your screen? This simple CSS trick helps prevent slip-ups by keeping y
 ## 📌 Notes  
 - This CSS only hides *your own* avatar on your end.  
 - No data is collected or transmitted—it's 100% client-side.  
+- **Easily broken** if/when x/twitter changes their backend code!
 
 ---
 

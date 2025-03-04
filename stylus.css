@@ -1,0 +1,11 @@
+/* hide your avatar */
+	 [data-testid="SideNav_AccountSwitcher_Button"],
+/* change the "x" in UserAvatar-Container-x to the first letter in your twitter username */
+	 [data-testid*="UserAvatar-Container-x"],
+/* this selector will prevent accidently clicks on "post your reply" */
+	 [class="DraftEditor-root"]
+	 {display:none;}
+
+/* hide messages */
+	 [class="css-175oi2r r-173mn98 r-1rtiivn r-hvns9x r-1jte41z r-5wli1b"]
+	 {display:none;}
